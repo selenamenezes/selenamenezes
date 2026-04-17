@@ -1,21 +1,30 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A66C2,100:3776AB&height=180&section=header&text=Selena%20Menezes&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A66C2,100:3776AB&height=180&section=header&text=Selena%20Menezes&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-🎓 Estudante de Analise e Desenvolvimento de Sistemas
+  <strong>🎓 Estudante de Analise e Desenvolvimento de Sistemas</strong>
 </p>
+
+<br>
 
 ---
 
-## 🚀 Sobre mim
+## ✦ 🚀 Sobre mim
+
+> Atualmente construindo minha base em desenvolvimento e dados,  
+> com foco em soluções práticas e aprendizado constante.
 
 - Atualmente estudando **Python para web e Ciência de Dados**
 - Interessada em **Dados, Automação, Back-end e Salesforce**
 - Desenvolvendo projetos com foco em **back-end e dados**
 
+<br>
+
 ---
+
+## ✦ 📊 Linguagens mais usadas
 
 <p align="center">
   <img 
@@ -24,10 +33,11 @@
   />
 </p>
 
+<br>
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## ✦ 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -43,19 +53,21 @@
   <img src="https://img.shields.io/badge/Power%20Query-0A66C2?style=for-the-badge&logo=powerbi&logoColor=white"/>
 </p>
 
+<br>
+
 ---
 
-## 📬 Contato
+## ✦ 📬 Contato
 
 <p align="center">
-📧 <strong>Email:</strong> <a href="mailto:selenamenezes18@gmail.com">selenamenezes18@gmail.com</a><br>
-💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/selena-menezes">linkedin.com/in/selena-menezes</a>
+  📧 <strong>Email:</strong> <a href="mailto:selenamenezes18@gmail.com">selenamenezes18@gmail.com</a><br>
+  💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/selena-menezes">linkedin.com/in/selena-menezes</a>
 </p>
 
----
+<br>
 
 <p align="center">
-✨ <em>Sempre buscando evoluir e aprender mais na área de tecnologia!</em>
+  ✨ <em>Sempre buscando evoluir e aprender mais na área de tecnologia!</em>
 </p>
 
 <!-- Footer -->
