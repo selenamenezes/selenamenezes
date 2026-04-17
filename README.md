@@ -22,6 +22,7 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![API REST](https://img.shields.io/badge/API%20REST-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ---
 
