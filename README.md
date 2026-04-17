@@ -11,7 +11,7 @@
 
 ---
 
-## ✦ 🚀 Sobre mim
+## ✦ Sobre mim
 
 > Atualmente construindo minha base em desenvolvimento e dados,  
 > com foco em soluções práticas e aprendizado constante.
@@ -24,7 +24,7 @@
 
 ---
 
-## ✦ 📊 Linguagens mais usadas
+## ✦ Linguagens mais usadas
 
 <p align="center">
   <img 
@@ -37,7 +37,7 @@
 
 ---
 
-## ✦ 🛠️ Tecnologias & Ferramentas
+## ✦ Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -57,7 +57,7 @@
 
 ---
 
-## ✦ 📬 Contato
+## ✦ Contato
 
 <p align="center">
   📧 <strong>Email:</strong> <a href="mailto:selenamenezes18@gmail.com">selenamenezes18@gmail.com</a><br>
