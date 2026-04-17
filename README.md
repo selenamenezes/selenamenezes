@@ -1,6 +1,6 @@
-<!-- Banner -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A66C2,100:3776AB&height=180&section=header&text=Selena%20Menezes&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=110&section=header&text=Selena%20Menezes&fontSize=36&fontColor=ffffff" />
 </p>
 
 <p align="center">
