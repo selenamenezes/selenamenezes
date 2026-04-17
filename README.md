@@ -8,7 +8,7 @@
 
 * Atualmente estudando Python para web e Ciência de Dados
 * Interessada em Dados, Automação, Back-end e Salesforce
-* esenvolvendo projetos com foco em back-end e dados
+* Desenvolvendo projetos com foco em back-end e dados
 
 ---
 
