@@ -1,7 +1,5 @@
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=110&section=header&text=Selena%20Menezes&fontSize=36&fontColor=ffffff" />
-</p>
+<h1 align="center">Selena Menezes</h1>
+<hr style="border:1px solid #0A66C2"/>
 
 <p align="center">
   <strong>🎓 Estudante de Analise e Desenvolvimento de Sistemas</strong>
@@ -12,9 +10,6 @@
 ---
 
 ## ✦ Sobre mim
-
-> Atualmente construindo minha base em desenvolvimento e dados,  
-> com foco em soluções práticas e aprendizado constante.
 
 - Atualmente estudando **Python para web e Ciência de Dados**
 - Interessada em **Dados, Automação, Back-end e Salesforce**
