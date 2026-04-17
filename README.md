@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A66C2,100:3776AB&height=180&section=header&text=Selena%20Menezes&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h1 align="center">👋 Olá, sou Selena Menezes!</h1>
-
 <p align="center">
 🎓 Estudante de Analise e Desenvolvimento de Sistemas
 </p>
@@ -23,16 +21,16 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=blueberry&hide_border=true&title_color=0A66C2&icon_color=3776AB&text_color=1F2937&bg_color=F7FAFC" 
+    src="https://github-readme-stats.vercel.app/api?username=selenamenezes&show_icons=true&theme=blueberry&hide_border=true&title_color=0A66C2&icon_color=3776AB&text_color=1F2937&bg_color=F7FAFC" 
     height="160"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=blueberry&hide_border=true&title_color=0A66C2&text_color=1F2937&bg_color=F7FAFC" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=selenamenezes&layout=compact&theme=blueberry&hide_border=true&title_color=0A66C2&text_color=1F2937&bg_color=F7FAFC" 
     height="160"
   />
 </p>
 
-> 🔧 **Importante:** substitua `SEU_USUARIO_GITHUB` pelo seu usuário real do GitHub.
+> 🔧 **Importante:** substitua `selenamenezes` pelo seu usuário real do GitHub.
 
 ---
 
