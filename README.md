@@ -37,8 +37,6 @@ Sistema automatizado para envio de relatórios e atualização de informações
 
 ---
 
-## 📫 Contato
-
 📧 Email: [selenamenezes18@gmail.com](mailto:selenamenezes18@gmail.com)
 💼 LinkedIn: www.linkedin.com/in/selena-menezes
 
