@@ -21,16 +21,11 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=selenamenezes&show_icons=true&theme=blueberry&hide_border=true&title_color=0A66C2&icon_color=3776AB&text_color=1F2937&bg_color=F7FAFC" 
-    height="160"
-  />
-  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=selenamenezes&layout=compact&theme=blueberry&hide_border=true&title_color=0A66C2&text_color=1F2937&bg_color=F7FAFC" 
     height="160"
   />
 </p>
 
-> 🔧 **Importante:** substitua `selenamenezes` pelo seu usuário real do GitHub.
 
 ---
 
