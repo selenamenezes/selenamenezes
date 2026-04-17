@@ -22,18 +22,6 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![API REST](https://img.shields.io/badge/API%20REST-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
----
-
-## 📌 Projetos em destaque
-
-🔹 🚕 NYC Taxi Data Pipeline
-Pipeline de processamento de dados em larga escala com Python e PyArrow, incluindo limpeza, transformação e otimização de dados
-
-🔹 ⚙️ Automação de Tarefas
-Scripts em Python para organização, limpeza e atualização de bases de dados
-
-🔹 📧 Notificações por Email
-Sistema automatizado para envio de relatórios e atualização de informações
 
 ---
 
