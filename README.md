@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=3776AB&height=6&section=header" />
-</p>
-
-<p align="center">
   <strong>🎓 Estudante de Analise e Desenvolvimento de Sistemas</strong>
 </p>
 
