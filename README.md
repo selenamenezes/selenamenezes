@@ -1,5 +1,10 @@
-<h1 align="center">Selena Menezes</h1>
-<hr style="border:1px solid #0A66C2"/>
+<h1 align="center">
+  <code style="color:#0A66C2;">Selena Menezes</code>
+</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=3776AB&height=6&section=header" />
+</p>
 
 <p align="center">
   <strong>🎓 Estudante de Analise e Desenvolvimento de Sistemas</strong>
