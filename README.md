@@ -10,6 +10,8 @@
 ## Tecnologias
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API%20REST-0A66C2?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-0A66C2?style=flat&logo=githubactions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-0A1F44?style=flat&logo=database&logoColor=white"/>
   <img src="https://img.shields.io/badge/NoSQL-4DB33D?style=flat&logo=mongodb&logoColor=white"/>
