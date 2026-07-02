@@ -4,7 +4,7 @@
 - Estudando **Python (Web e Dados)**
 - Interesse em **Back-end, Dados e Automação**
 - Explorando **Salesforce**
-<a href="https://selenamenezes.github.io/portfolio/">Porfólio</a>
+- <a href="https://selenamenezes.github.io/portfolio/">Porfólio</a>
 
 ---
 
